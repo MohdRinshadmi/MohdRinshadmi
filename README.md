@@ -2,8 +2,6 @@ Hi, I'm Mohammed Rinshad😎
 
 I'm passionate about Mobile App Development and constantly strive to enhance my skills in this field🥰
 
-Currently, I am focused on learning and mastering React Native, a powerful framework for building cross-platform mobile applications😈
-
 💞️ I am eager to collaborate with like-minded individuals and teams on exciting projects that involve mobile app development ❤️
 
 📫 You can reach me through the following channels:
