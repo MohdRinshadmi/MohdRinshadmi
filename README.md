@@ -1,6 +1,6 @@
 Hi, I'm Mohammed Rinshad😎
 
-I'm passionate about Mobile App Development and constantly strive to enhance my skills in this field🥰
+I'm passionate about Web & Mobile App Development and constantly strive to enhance my skills in this field🥰
 
 💞️ I am eager to collaborate with like-minded individuals and teams on exciting projects that involve mobile app development ❤️
 
